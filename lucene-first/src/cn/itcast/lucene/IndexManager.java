@@ -38,7 +38,7 @@ public class IndexManager {
 	public void testAddIndex() throws Exception {
 //		1、执行索引库的目录
 		Directory  directory = FSDirectory.open(new File("D:\\class39\\indexRespo"));
-		
+		System.out.println();
 //		2、指定分词器  --标准分词器
 		Analyzer analyzer = new StandardAnalyzer();
 		
