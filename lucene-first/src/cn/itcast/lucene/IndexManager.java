@@ -31,7 +31,7 @@ import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 import org.junit.Test;
 import org.wltea.analyzer.lucene.IKAnalyzer;
-
+// hafs;ldfas;kldgj
 public class IndexManager {
 
 	@Test
